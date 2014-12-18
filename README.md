@@ -13,3 +13,5 @@ open source
 7、UITabelViewCell高度自适应   https://github.com/smileyborg/TableViewCellWithAutoLayout  翻译:http://codingobjc.com/blog/2014/10/15/shi-yong-autolayoutshi-xian-uitableviewde-celldong-tai-bu-ju-he-ke-bian-xing-gao/
 8、autolayout开源库  https://github.com/smileyborg/PureLayout  
 9、UIScrollView使用Autolayout  http://andyyou.logdown.com/posts/218193-ios-use-uiscrollview-autolayout
+10、iOS: Autolayout和UITableViewCell的动态高度 (1)  http://www.mgenware.com/blog/?p=507
+iOS: Autolayout和UITableViewCell的动态高度 (2) – 多样式Cell切换   http://www.mgenware.com/blog/?p=509
