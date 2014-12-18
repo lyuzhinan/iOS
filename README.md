@@ -11,5 +11,5 @@ open source
 5、中文 iOS/Mac 开发博客列表   https://github.com/tangqiaoboy/iOSBlogCN
 6、https://github.com/summer-wu/iOSAlipayUI
 7、UITabelViewCell高度自适应   https://github.com/smileyborg/TableViewCellWithAutoLayout
-8、autolayout开源库  https://github.com/smileyborg/PureLayout
+8、autolayout开源库  https://github.com/smileyborg/PureLayout  翻译:http://codingobjc.com/blog/2014/10/15/shi-yong-autolayoutshi-xian-uitableviewde-celldong-tai-bu-ju-he-ke-bian-xing-gao/
 
