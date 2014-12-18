@@ -15,3 +15,4 @@ open source
 9、UIScrollView使用Autolayout  http://andyyou.logdown.com/posts/218193-ios-use-uiscrollview-autolayout
 10、iOS: Autolayout和UITableViewCell的动态高度 (1)  http://www.mgenware.com/blog/?p=507
 iOS: Autolayout和UITableViewCell的动态高度 (2) – 多样式Cell切换   http://www.mgenware.com/blog/?p=509
+11、结队开发之多storyboard  http://www.ifun.cc/blog/2014/02/23/jie-dui-kai-fa-zhi-duo-storyboard/
