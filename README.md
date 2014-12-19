@@ -17,3 +17,4 @@ open source
 iOS: Autolayout和UITableViewCell的动态高度 (2) – 多样式Cell切换   http://www.mgenware.com/blog/?p=509
 11、结队开发之多storyboard  http://www.ifun.cc/blog/2014/02/23/jie-dui-kai-fa-zhi-duo-storyboard/
 12、CocoaPods详解   http://blog.csdn.net/wzzvictory/article/details/18737437
+13、UAAppReviewManager提示去评价应用   https://github.com/UrbanApps/UAAppReviewManager
