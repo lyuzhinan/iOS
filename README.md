@@ -21,3 +21,4 @@ iOS: Autolayout和UITableViewCell的动态高度 (2) – 多样式Cell切换   h
 14、多个storyboard跳转   https://github.com/rob-brown/RBStoryboardLink
 15、蘑菇街IM   https://github.com/mogutt/TTiOSClient
 16、coding ios客户端   http://www.cocoachina.com/bbs/read.php?tid=277276
+17、模仿X易新闻的主视图  https://github.com/xushao1990/XTNews
