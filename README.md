@@ -23,3 +23,4 @@ iOS: Autolayout和UITableViewCell的动态高度 (2) – 多样式Cell切换   h
 16、coding ios客户端   http://www.cocoachina.com/bbs/read.php?tid=277276
 17、模仿X易新闻的主视图  https://github.com/xushao1990/XTNews
 18、RDVTabBarController自定义tabbar  https://github.com/robbdimitrov/RDVTabBarController
+19、好看的进度条ASProgressPopUpView  https://github.com/alskipp/ASProgressPopUpView
