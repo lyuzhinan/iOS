@@ -46,3 +46,4 @@ iOS: Autolayout和UITableViewCell的动态高度 (2) – 多样式Cell切换   h
 <br>
 19、好看的进度条ASProgressPopUpView  https://github.com/alskipp/ASProgressPopUpView
 <br>
+20、像新浪微博一样的图片浏览viewcontroller：https://github.com/jaredsinclair/JTSImageViewController
